@@ -60,12 +60,13 @@ Lab Completion
 I first completed the lab with guidance and then repeated it independently without using the provided solution.
 
 During the second attempt, I identified and corrected command errors while completing the required directory and file structur.
+
 ## Screenshots
 
 ### Directory Structure (tree)
 
-![Tree Output](screenshots/tree-output.png)
+![ls -lR Output](screenshots/ls-lR-output.png)
 
 ### Detailed File Information (ls -lR)
 
-![ls -lR Output](screenshots/ls-lR-output.png)
+![Tree Output](screenshots/tree-output.png)
